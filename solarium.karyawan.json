@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "676cae4bccf5ce93bf4eeb89"
+  },
+  "id_karyawan": "E001",
+  "nama": "Imam Syafi'i",
+  "jabatan": "Operator",
+  "jadwal_kerja": "2024-12-26 . 2024-12-26"
+}]

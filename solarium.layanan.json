@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "676cad1accf5ce93bf4eeb87"
+  },
+  "id_layanan": "S001",
+  "nama_layanan": "Tanning",
+  "deskripsi": "Proses Penggelapan Kulit Sinar UV",
+  "harga": "15000"
+}]

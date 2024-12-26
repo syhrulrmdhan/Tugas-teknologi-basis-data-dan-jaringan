@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "676cadb0ccf5ce93bf4eeb88"
+  },
+  "id_transaksi": "T001",
+  "id_pelanggan": "S001",
+  "tanggal_transaksi": "2024-12-26",
+  "total_harga": "15000"
+}]

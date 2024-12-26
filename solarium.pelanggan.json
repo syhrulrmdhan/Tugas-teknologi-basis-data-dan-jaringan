@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "676cacc2ccf5ce93bf4eeb86"
+  },
+  "id_pelanggan": "C001",
+  "nama": "Syahrul Ramadhan",
+  "email": "syhrl281004@gmail.com",
+  "nomor_telepon": "087777507840",
+  "tanggal_lahir": "28 Oktober 2004",
+  "jenis_kelamin": "Laki-laki"
+}]
